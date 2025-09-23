@@ -26,3 +26,32 @@ Os arquivos necessários para a análise estão disponíveis na pasta do Google 
 
 ![Tipos de Dados ](png/tela2.PNG)
 
+---
+
+### **Análise das causas dos cancelamentos**
+
+1.  **Como as colunas da base impactam no cancelamento:** Gráficos com os motivos do Cancelamento por Categorias.
+
+![Gráficos ](png/tela4.PNG)
+
+![Gráficos ](png/tela5.PNG)
+
+![Gráficos ](png/tela6.PNG)
+
+![Gráficos ](png/tela7.PNG)
+
+![Gráficos ](png/tela8.PNG)
+
+![Gráficos ](png/tela9.PNG)
+
+![Gráficos ](png/tela10.PNG)
+
+![Gráficos ](png/tela11.PNG)
+
+![Gráficos ](png/tela12.PNG)
+
+![Gráficos ](png/tela13.PNG)
+
+![Gráficos ](png/tela14.PNG)
+
+-
