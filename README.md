@@ -21,3 +21,8 @@ Os arquivos necessários para a análise estão disponíveis na pasta do Google 
 2.  **Tratamento de Dados:** Corrigir inconsistências e valores ausentes.
 3.  **Análise Exploratória:** Entender as principais características dos clientes.
 4.  **Análise de Cancelamentos:** Investigar a relação entre as colunas e o cancelamento.
+
+![Gráfico de Dados ](png/tela1.PNG)
+
+![Tipos de Dados ](png/tela2.PNG)
+
