@@ -54,4 +54,26 @@ Os arquivos necessários para a análise estão disponíveis na pasta do Google 
 
 ![Gráficos ](png/tela14.PNG)
 
--
+---
+
+### **Simular o impacto das ações de melhoria**
+
+1.  **Contagem antes da Simulação:** Total de Clientes.
+
+![Gráficos ](png/tela15.PNG)
+
+2.  **Calcular a taxa de cancelamento original:** Taxa de Cancelamentos.
+
+![Gráficos ](png/tela16.PNG)
+
+---
+
+### **Taxa de Cancelamento Original**
+
+![Gráficos ](png/tela17.PNG)
+
+---
+
+### **Taxa de Cancelamento Após a Simulação**
+
+![Gráficos ](png/tela18.PNG)
