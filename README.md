@@ -11,7 +11,7 @@ Para melhorar seus resultados, o objetivo é entender os principais motivos por 
 **Base de Dados:**
 
 Os arquivos necessários para a análise estão disponíveis na pasta do Google Drive:
-[Base de dados e arquivos:](https://drive.google.com/drive/folders/1uDes7ePdkHiraJmiyeZ-w5lfc8K6NYFZ?usp=drive_link)
+Base de dados e arquivos: https://drive.google.com/drive/folders/1uDes7ePdkHiraJmiyeZ-w5lfc8K6NYFZ?usp=drive_link
 
 # Projeto de Análise: Fatores de Cancelamento de Clientes
 
